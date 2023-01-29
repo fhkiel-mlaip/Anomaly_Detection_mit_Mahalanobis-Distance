@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="4119">
+        <Placemark id="4121">
+            <Point id="4120">
+                <coordinates>10.178596,54.329259,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4123">
+            <Point id="4122">
+                <coordinates>10.178591,54.329279,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4125">
+            <Point id="4124">
+                <coordinates>10.178566,54.329236,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4127">
+            <Point id="4126">
+                <coordinates>10.178589,54.329284,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4129">
+            <Point id="4128">
+                <coordinates>10.178586,54.329266,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4131">
+            <Point id="4130">
+                <coordinates>10.178579,54.329296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4133">
+            <Point id="4132">
+                <coordinates>10.178577,54.329289,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4135">
+            <Point id="4134">
+                <coordinates>10.181956,54.328416,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4137">
+            <Point id="4136">
+                <coordinates>10.182017,54.328206,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4139">
+            <Point id="4138">
+                <coordinates>10.182094,54.328276,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4141">
+            <Point id="4140">
+                <coordinates>10.182099,54.328267,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4143">
+            <Point id="4142">
+                <coordinates>10.182382,54.328112,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4145">
+            <Point id="4144">
+                <coordinates>10.182277,54.328219,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4147">
+            <Point id="4146">
+                <coordinates>10.182314,54.328234,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4149">
+            <Point id="4148">
+                <coordinates>10.182382,54.328072,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4151">
+            <Point id="4150">
+                <coordinates>10.181641,54.328536,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
